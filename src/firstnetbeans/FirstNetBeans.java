@@ -15,7 +15,7 @@ public class FirstNetBeans {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Bruh BRuh BRuh...");
+        System.out.println("Bruh BRuh BRuh.....");
     }
     
 }
