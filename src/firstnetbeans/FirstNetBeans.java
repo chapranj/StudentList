@@ -15,7 +15,12 @@ public class FirstNetBeans {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Bruh BRuh BRuh.....");
+        System.out.println("HEllo!.....");
+        System.out.println("This is the new Line!");
+        //added another line
+        //another line added
+        //added a comment at the last
+        //another comment 
     }
     
 }
