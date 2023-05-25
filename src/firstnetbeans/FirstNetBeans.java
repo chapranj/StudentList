@@ -17,6 +17,7 @@ public class FirstNetBeans {
         // TODO code application logic here
         System.out.println("HEllo!.....");
         System.out.println("This is the new Line!");
+        System.out.println("The new line!");
         //added another line
         //another line added
         //added a comment at the last
